@@ -8,6 +8,10 @@
   },
   "states": [
     {
+      "name": "scar_chest",
+      "directions": 4
+    },
+    {
       "name": "scar_eye_left",
       "directions": 4
     },
